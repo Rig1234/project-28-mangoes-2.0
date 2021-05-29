@@ -13,7 +13,7 @@ class launcher {
 
     }
    fly(){
-       this.launcher.bodyA = null 
+       this.SlingShot.bodyA = null  
     }
 
     display(){
